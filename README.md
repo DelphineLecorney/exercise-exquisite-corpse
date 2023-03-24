@@ -1,2 +1,1 @@
-# exercise-exquisite-corpse
-exercise-exquisite-corpse
+# Cadavre exquis DL
